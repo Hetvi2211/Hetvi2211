@@ -5,10 +5,9 @@
 ---
 
 ### 🔥 About Me
-- 🎯 **Mission**: Build impactful AI solutions that make the world smarter.
-- 💻 **Learning**: Python, R, Java, LangChain, React, ML, DL, NLP
-- 🧠 **Focus Areas**: Artificial Intelligence • Automation • Data Science • Open Source
-- ❤️ **Passion**: Solving real-world problems with technology and creativity.
+- 🎓 I'm Currently in my third year, pursuing a degree in Artificial Intelligence & Machine Learning (AI/ML).
+- 🤖 Passionate about building smart systems that solve real-world challenges.
+- 🧠 Interests: Machine Learning, Deep Learning, NLP, and AI-driven automation.
 
 ---
 
