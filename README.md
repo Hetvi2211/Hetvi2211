@@ -43,6 +43,7 @@
 | 🧠 AI-Driven Fish Species Classifier | Classify and retrieve visually similar fish species using CNN + PCA |
 | 🍽️ Food Delivery Segmentation | Customer segmentation using clustering & data analysis |
 | 🔒 Fake News Detector | TF-IDF + Logistic Regression in a Flask app GitHub |
+| 📚 **Library Management System** | A C++ console-based application to manage a library's inventory. Supports adding, viewing, searching, issuing, and returning books. |
 
 ---
 
