@@ -2,8 +2,6 @@
 
 <h3 align="center">AI/ML Enthusiast | Developer | Learner | Explorer 🚀</h3>
 
-> "Only victors are allowed to live. This world is merciless like that." — Mikasa Ackerman
-
 ---
 
 ### 🔥 About Me
@@ -54,7 +52,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Mail-red?logo=gmail)](mailto:yourmail@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://twitter.com/your-twitter)
 
----
-
-> _"If I can't, then I'll just die. But if I win, I live." — Mikasa Ackerman_
 
