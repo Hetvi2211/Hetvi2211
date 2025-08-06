@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hetvi+Rabari;AI%2FML+Student+%26+Tech+Explorer&center=true&width=480&height=45&font=Fira+Code&pause=1000&color=F70081&vCenter=true&size=22" />
 </p>
 
-
-
-<h1 align="center">Hi, I'm Hetvi Rabari 👋</h1>
-
 <h3 align="center">AI/ML Enthusiast | Developer | Learner | Explorer 🚀</h3>
 
 ---
