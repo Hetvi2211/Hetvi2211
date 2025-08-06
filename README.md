@@ -40,10 +40,11 @@
 
 | Project | Description |
 |--------|-------------|
-| 🧠 AI-Driven Fish Species Classifier | Classify and retrieve visually similar fish species using CNN + PCA |
-| 🍽️ Food Delivery Segmentation | Customer segmentation using clustering & data analysis |
-| 🔒 Fake News Detector | TF-IDF + Logistic Regression in a Flask app GitHub |
+| **🔒 Fake News Detector** | TF-IDF + Logistic Regression in a Flask app GitHub |
 | 📚 **Library Management System** | A C++ console-based application to manage a library's inventory. Supports adding, viewing, searching, issuing, and returning books. |
+| 📊 **Social Media Dashboard** | A modern React dashboard to monitor follower stats across social platforms like Twitter, Instagram, and YouTube. Includes dark/light mode, interactive charts (Recharts), dynamic theme toggling, and platform-wise data cards. |
+| **🔐 Password Generator** | A Python-based tool to generate strong, customizable passwords with options for length, symbols, numbers, and uppercase letters using the random and string modules. |
+| **🧠 React Quiz App** | A responsive quiz app built with React.js featuring multiple-choice questions, score tracking, quiz restart, and a clean UI. |
 
 ---
 
