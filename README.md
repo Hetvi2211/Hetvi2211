@@ -36,11 +36,12 @@
 ---
 
 ### 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hetvi2211&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
+
 
 ### 🚀 Featured Projects
 
@@ -56,8 +57,9 @@
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail-red?logo=gmail)](mailto:yourmail@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://twitter.com/your-twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hetvi-rabari-764a4b2ab/)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail-red?logo=gmail)](mailto:hetvirabari9[at]gmail[dot]com)
+
+
 
 
