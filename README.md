@@ -10,7 +10,6 @@
 ### 🔥 About Me
 - 🎓 I'm Currently in my third year, pursuing a degree in Artificial Intelligence & Machine Learning (AI/ML).
 - 🤖 Passionate about building smart systems that solve real-world challenges.
-- 🧠 Interests: Machine Learning, Deep Learning, NLP, and AI-driven automation.
 
 ---
 
