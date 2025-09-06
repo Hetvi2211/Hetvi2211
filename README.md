@@ -37,20 +37,6 @@
 
 ---
 
-
-### 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| **🔒 Fake News Detector** | TF-IDF + Logistic Regression in a Flask app GitHub |
-| 📚 **Library Management System** | A C++ console-based application to manage a library's inventory. Supports adding, viewing, searching, issuing, and returning books. |
-| 📊 **Social Media Dashboard** | A modern React dashboard to monitor follower stats across social platforms like Twitter, Instagram, and YouTube. Includes dark/light mode, interactive charts (Recharts), dynamic theme toggling, and platform-wise data cards. |
-| **🔐 Password Generator** | A Python-based tool to generate strong, customizable passwords with options for length, symbols, numbers, and uppercase letters using the random and string modules. |
-| **🧠 React Quiz App** | A responsive quiz app built with React.js featuring multiple-choice questions, score tracking, quiz restart, and a clean UI. |
-| **🛒 Online Purchase Intent Prediction** | A machine learning project predicting customer purchase behavior using the Online Shoppers dataset with data preprocessing, SMOTE, classification models, and evaluation. |
-
----
-
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hetvi-rabari-764a4b2ab/)
