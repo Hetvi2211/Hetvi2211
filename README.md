@@ -10,6 +10,7 @@
 ### 🔥 About Me
 - 🎓 I'm Currently in my third year, pursuing a degree in Artificial Intelligence & Machine Learning (AI/ML).
 - 🤖 Passionate about building smart systems that solve real-world challenges.
+- ![Profile views](https://komarev.com/ghpvc/?username=Hetvi2211&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
