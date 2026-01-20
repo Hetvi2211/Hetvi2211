@@ -41,7 +41,7 @@
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hetvi-rabari-764a4b2ab/)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail-red?logo=gmail)](mailto:hetvirabari9[at]gmail[dot]com)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail-red?logo=gmail)](mailto:hetvirabari0[at]gmail[dot]com)
 
 
 
